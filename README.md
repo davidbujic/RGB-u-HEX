@@ -5,6 +5,11 @@ Kreiran je primer konvertera koda boja u heksadecimalni zapis i obrnuto.
 ## Features
 Ovaj projekat ima mogucnost konverzije koda boja u heksadecimalni zapis i obrunuto preko fukcija za konverziju `RGB u HEX` i `HEX u RGB`. Korisnik ima mogucnost da izabere koji od ova 2 nacina zeli i program ce izvrsiti konverziju.
 
+### Skills
+1. ***pytest***
+2. ***funckije sleep, strftime i localtime iz biblioteke time***
+3. ***funckija randint iz biblioteke random***
+
 ## Prerequisites
 Za ovaj projekat su potrebni `GitHub account` i `IDLE Python` koji je IDE za rad.
 
@@ -19,3 +24,4 @@ Pokretanje testova se vrsi pokretanjem fajla `rgb_u_hex.py`u `Shell-u IDLE Pytho
 
 ## Versions
 1. Osnovna verzija
+2. Dodati detalji u Skills
