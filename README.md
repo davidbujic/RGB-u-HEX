@@ -7,7 +7,7 @@ Ovaj projekat ima mogucnost konverzije koda boja u heksadecimalni zapis i obrunu
 
 ### Skills
 1. ***pytest***
-2. ***funckije sleep, strftime i localtime iz biblioteke time***
+2. ***funkcije sleep, strftime i localtime iz biblioteke time***
 3. ***funckija randint iz biblioteke random***
 
 ## Prerequisites
